@@ -1,0 +1,90 @@
+[
+  {
+    "id": "101",
+    "titre": "Prière de Gratitude Générale",
+    "texte": "Merci, Seigneur, pour Tes bienfaits quotidiens ; que mon cœur soit toujours reconnaissant. Comme Paul, 'Rendez grâces en toutes choses' (1 Thessaloniciens 5:18). Aide-moi à voir Tes dons. Amen.",
+    "verset": "1 Thessaloniciens 5:18 – 'Rendez grâces en toutes choses, car c’est à votre égard la volonté de Dieu en Jésus-Christ.'",
+    "commentaire": "Ce verset commande la gratitude constante. Cette prière encourage une attitude reconnaissante.",
+    "tags": ["gratitude", "bienfaits", "volonté", "reconnaissante"]
+  },
+  {
+    "id": "102",
+    "titre": "Prière pour la Justice Sociale",
+    "texte": "Ô Dieu, Toi qui aimes la justice, inspire-moi à lutter pour l'équité. Comme Amos, 'Que le droit coule comme de l’eau' (Amos 5:24). Guide mes actions, Amen.",
+    "verset": "Amos 5:24 – 'Mais que le droit coule comme de l’eau, et la justice comme un torrent qui ne tarit point.'",
+    "commentaire": "Amos appelle à la justice. Cette prière demande engagement social.",
+    "tags": ["justice", "équité", "actions", "sociale"]
+  },
+  {
+    "id": "103",
+    "titre": "Prière pour la Paix Mondiale",
+    "texte": "Seigneur, Prince de la Paix, apporte paix au monde troublé. Comme le psalmiste, 'Dieu fera cesser les guerres' (Psaume 46:9). Guide les leaders, Amen.",
+    "verset": "Psaume 46:9 – 'Il fait cesser les guerres jusqu’au bout de la terre ; il brise l’arc, il rompt la lance, il brûle par le feu les chars.'",
+    "commentaire": "Ce psaume proclame Dieu comme paix. Cette prière est pour la paix globale.",
+    "tags": ["paix", "mondiale", "guerres", "leaders"]
+  },
+  {
+    "id": "104",
+    "titre": "Prière pour les Catastrophes Naturelles",
+    "texte": "Ô Dieu, Toi qui commandes aux éléments, protège dans les catastrophes. Comme le psalmiste, 'Dieu est pour nous un refuge' (Psaume 46:1). Console les victimes, Amen.",
+    "verset": "Psaume 46:1 – 'Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la détresse.'",
+    "commentaire": "Ce psaume assure refuge dans les crises. Cette prière demande protection dans les désastres.",
+    "tags": ["catastrophes", "refuge", "secours", "consolation"]
+  },
+  {
+    "id": "105",
+    "titre": "Prière pour les Enfants",
+    "texte": "Seigneur, Toi qui aimes les enfants, protège et guide les petits. Comme Jésus, 'Laissez venir à moi les petits enfants' (Marc 10:14). Bénis-les, Amen.",
+    "verset": "Marc 10:14 – 'Jésus, voyant cela, fut indigné, et leur dit : Laissez venir à moi les petits enfants, et ne les en empêchez pas ; car le royaume de Dieu est pour ceux qui leur ressemblent.'",
+    "commentaire": "Jésus bénit les enfants. Cette prière demande bénédiction pour eux.",
+    "tags": ["enfants", "protection", "bénédiction", "royaume"]
+  },
+  {
+    "id": "106",
+    "titre": "Prière pour les Âgés",
+    "texte": "Ô Dieu, Toi qui honores les aînés, soutiens les âgés dans leur sagesse. Comme le psalmiste, 'Même dans la vieillesse, ils portent du fruit' (Psaume 92:14). Accorde-leur force, Amen.",
+    "verset": "Psaume 92:14 – 'Plantés dans la maison de l’Éternel, ils s’épanouissent dans les parvis de notre Dieu ; ils portent encore des fruits dans la vieillesse, ils sont pleins de sève et verdoyants.'",
+    "commentaire": "Ce psaume promet fruit dans la vieillesse. Cette prière demande vitalité pour les aînés.",
+    "tags": ["âgés", "force", "fruit", "sagesse"]
+  },
+  {
+    "id": "107",
+    "titre": "Prière pour l'Environnement",
+    "texte": "Seigneur, Toi qui as créé la terre, aide-nous à préserver Ton œuvre. Comme Genèse, 'Dieu vit que c’était bon' (Genèse 1:25). Guide nos efforts écologiques, Amen.",
+    "verset": "Genèse 1:25 – 'Dieu fit les animaux de la terre selon leur espèce, le bétail selon son espèce, et tous les reptiles de la terre selon leur espèce. Dieu vit que c’était bon.'",
+    "commentaire": "La création est bonne. Cette prière demande stewardship environnemental.",
+    "tags": ["environnement", "création", "préservation", "efforts"]
+  },
+  {
+    "id": "108",
+    "titre": "Prière pour la Tolérance",
+    "texte": "Ô Dieu, Toi qui aimes tous, enseigne la tolérance. Comme Paul, 'Supportez-vous les uns les autres' (Colossiens 3:13). Promouvois unité, Amen.",
+    "verset": "Colossiens 3:13 – 'Supportez-vous les uns les autres, et, si l’un a sujet de se plaindre de l’autre, pardonnez-vous réciproquement. De même que Christ vous a pardonné, pardonnez-vous aussi.'",
+    "commentaire": "Ce verset appelle à la tolérance. Cette prière demande unité dans la diversité.",
+    "tags": ["tolérance", "unité", "pardon", "support"]
+  },
+  {
+    "id": "109",
+    "titre": "Prière pour la Créativité",
+    "texte": "Seigneur, Toi qui es Créateur, inspire ma créativité. Comme Bezalel rempli d'Esprit (Exode 31:3), remplis-moi pour Tes œuvres. Amen.",
+    "verset": "Exode 31:3 – 'Je l’ai rempli de l’Esprit de Dieu, de sagesse, d’intelligence, et de savoir pour toutes sortes d’ouvrages.'",
+    "commentaire": "Bezalel est inspiré pour l'art. Cette prière demande créativité divine.",
+    "tags": ["créativité", "Esprit", "sagesse", "ouvrages"]
+  },
+  {
+    "id": "110",
+    "titre": "Prière pour la Résilience",
+    "texte": "Ô Dieu, Toi qui relèves, accorde résilience dans les épreuves. Comme Job, 'Quand il m’a éprouvé, j’en sortirai comme de l’or' (Job 23:10). Fortifie-moi, Amen.",
+    "verset": "Job 23:10 – 'Mais il sait nevertheless le chemin que je prends ; quand il m’aura éprouvé, j’en sortirai comme l’or.'",
+    "commentaire": "Job exprime résilience. Cette prière demande force dans les épreuves.",
+    "tags": ["résilience", "épreuves", "force", "or"]
+  },
+  {
+    "id": "111",
+    "titre": "Prière pour l'Espoir Éternel",
+    "texte": "Seigneur, Toi qui donnes espoir, ancre-moi dans l'espoir éternel. Comme Paul, 'L’espérance ne trompe point' (Romains 5:5). Remplis-moi, Amen.",
+    "verset": "Romains 5:5 – 'Or, l’espérance ne trompe point, parce que l’amour de Dieu est répandu dans nos cœurs par le Saint Esprit qui nous a été donné.'",
+    "commentaire": "Ce verset lie espoir à l'amour. Cette prière demande espoir éternel.",
+    "tags": ["espoir", "éternel", "amour", "Esprit"]
+  }
+]
